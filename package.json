@@ -1,0 +1,15 @@
+{
+  "name": "codedeploy",
+  "version": "1.0.0",
+  "description": "developing code for test purpose",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Waqas Ahmad",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2"
+  }
+}
